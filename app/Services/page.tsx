@@ -86,7 +86,7 @@ export default function Services() {
             Contact us to see how we can be of service to you.
           </p>
           <Link
-            href="/contact"
+            href="/Contact"
             className="inline-block bg-red-600 text-white px-6 py-2 rounded hover:bg-red-700 text-sm font-medium relative"
           >
             Contact Us

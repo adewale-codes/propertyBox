@@ -104,15 +104,15 @@ const Hero = () => {
               </div>
 
               {/* Right: Woman Image */}
-              <div className="hidden lg:block w-full max-w-sm relative h-[500px]">
+              {/* <div className="hidden lg:block w-full max-w-sm relative h-[500px]">
                 <Image
-                  src="/woman.png"
+                  src="/h2.jpg"
                   alt="Woman"
                   fill
                   className="object-contain"
                   priority
                 />
-              </div>
+              </div> */}
             </div>
           </SwiperSlide>
         ))}
